@@ -1,6 +1,6 @@
 Checkpoint 1:
-	-- Sudo stands for "super-user do" which means run the following command as root i.e with admin privileges, which can be dangerous for the system since there are no protections against user mistakes or malicious purposes, root has complete control over the entire system.
-	-- apt-get is used to download and install packages from the specific linux distribution. It can also be used to update packages. Should be run as root to install packages.
+	sudo stands for "super-user do" which means run the following command as root i.e with admin privileges, which can be dangerous for the system since there are no protections against user mistakes or malicious purposes, root has complete control over the entire system.
+	apt-get is used to download and install packages from the specific linux distribution. It can also be used to update packages. Should be run as root to install packages.
 
 Checkpoint 4:
 
